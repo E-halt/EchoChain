@@ -1,0 +1,787 @@
+SKU,Component,Component_Code,Supplier,Component_Cost
+EAR-ZEN-0001,Battery,BAT,Pegatron,7.01
+EAR-ZEN-0001,Speaker Driver,SPD,Luxshare ICT,8.65
+EAR-ZEN-0001,Charging Case,CSE,Pegatron,11.71
+EAR-ZEN-0001,Bluetooth Chip,BTC,Pegatron,3.98
+LAP-ORB-0001,Motherboard,MB,Pegatron,180.46
+LAP-ORB-0001,Display Panel,DSP,Foxlink Corp,158.54
+LAP-ORB-0001,Battery,BAT,Pegatron,61.32
+LAP-ORB-0001,SSD Storage,SSD,Luxshare ICT,100.81
+LAP-ORB-0001,RAM Module,RAM,Luxshare ICT,66.22
+LAP-ORB-0001,Keyboard Assembly,KB,Foxlink Corp,29.29
+LAP-ORB-0001,Cooling Fan,FAN,Delta Electronics,5.47
+LAP-ORB-0001,Webcam Module,CAM,Foxlink Corp,8.73
+LAP-NIM-0002,Motherboard,MB,Quanta Computer,120.26
+LAP-NIM-0002,Display Panel,DSP,Luxshare ICT,122.61
+LAP-NIM-0002,Battery,BAT,Pegatron,20.94
+LAP-NIM-0002,SSD Storage,SSD,Quanta Computer,89.66
+LAP-NIM-0002,RAM Module,RAM,Quanta Computer,34.78
+LAP-NIM-0002,Keyboard Assembly,KB,Luxshare ICT,33.93
+LAP-NIM-0002,Cooling Fan,FAN,Pegatron,18.99
+LAP-NIM-0002,Webcam Module,CAM,Pegatron,3.83
+TAB-EMB-0001,Logic Board,LB,Luxshare ICT,58.59
+TAB-EMB-0001,Touch Display,TDS,Foxlink Corp,75.28
+TAB-EMB-0001,Battery,BAT,Delta Electronics,35.69
+TAB-EMB-0001,Speaker Unit,SPK,Delta Electronics,7.83
+TAB-EMB-0001,Charging Port,CHG,Luxshare ICT,5.08
+WCH-NIM-0001,Logic Board,LB,Quanta Computer,68.79
+WCH-NIM-0001,Display,DSP,Foxlink Corp,44.59
+WCH-NIM-0001,Battery,BAT,Luxshare ICT,11.23
+WCH-NIM-0001,Sensor Module,SEN,Foxlink Corp,10.75
+WCH-NIM-0001,Strap/Band,STR,Luxshare ICT,10.02
+PHN-ZEN-0001,Logic Board,LB,Pegatron,105.69
+PHN-ZEN-0001,OLED Display,OLD,Wistron,56.22
+PHN-ZEN-0001,Battery,BAT,Luxshare ICT,26.29
+PHN-ZEN-0001,Camera Module,CAM,Pegatron,28.7
+PHN-ZEN-0001,Charging Port,CHG,Quanta Computer,4.2
+PHN-ZEN-0001,Speaker Unit,SPK,Wistron,2.49
+PHN-ZEN-0002,Logic Board,LB,Foxlink Corp,245.05
+PHN-ZEN-0002,OLED Display,OLD,Luxshare ICT,116.14
+PHN-ZEN-0002,Battery,BAT,Luxshare ICT,22.24
+PHN-ZEN-0002,Camera Module,CAM,Quanta Computer,38.24
+PHN-ZEN-0002,Charging Port,CHG,Foxlink Corp,7.19
+PHN-ZEN-0002,Speaker Unit,SPK,Pegatron,9.95
+EAR-NIM-0002,Battery,BAT,Foxlink Corp,3.2
+EAR-NIM-0002,Speaker Driver,SPD,Foxlink Corp,11.43
+EAR-NIM-0002,Charging Case,CSE,Foxlink Corp,7.19
+EAR-NIM-0002,Bluetooth Chip,BTC,Quanta Computer,8.74
+EAR-SOL-0003,Battery,BAT,Quanta Computer,7.96
+EAR-SOL-0003,Speaker Driver,SPD,Delta Electronics,4.89
+EAR-SOL-0003,Charging Case,CSE,Foxlink Corp,4.82
+EAR-SOL-0003,Bluetooth Chip,BTC,Pegatron,3.99
+LAP-EMB-0003,Motherboard,MB,Wistron,101.89
+LAP-EMB-0003,Display Panel,DSP,Luxshare ICT,67.24
+LAP-EMB-0003,Battery,BAT,Foxlink Corp,45.44
+LAP-EMB-0003,SSD Storage,SSD,Delta Electronics,91.82
+LAP-EMB-0003,RAM Module,RAM,Quanta Computer,52.34
+LAP-EMB-0003,Keyboard Assembly,KB,Delta Electronics,21.82
+LAP-EMB-0003,Cooling Fan,FAN,Quanta Computer,5.05
+LAP-EMB-0003,Webcam Module,CAM,Quanta Computer,9.13
+TAB-SOL-0002,Logic Board,LB,Delta Electronics,89.25
+TAB-SOL-0002,Touch Display,TDS,Quanta Computer,70.38
+TAB-SOL-0002,Battery,BAT,Wistron,20.85
+TAB-SOL-0002,Speaker Unit,SPK,Wistron,2.01
+TAB-SOL-0002,Charging Port,CHG,Foxlink Corp,10.55
+TAB-ORB-0003,Logic Board,LB,Delta Electronics,172.18
+TAB-ORB-0003,Touch Display,TDS,Luxshare ICT,95.61
+TAB-ORB-0003,Battery,BAT,Wistron,20.12
+TAB-ORB-0003,Speaker Unit,SPK,Quanta Computer,2.52
+TAB-ORB-0003,Charging Port,CHG,Pegatron,11.99
+PHN-VOR-0003,Logic Board,LB,Quanta Computer,83.75
+PHN-VOR-0003,OLED Display,OLD,Foxlink Corp,123.12
+PHN-VOR-0003,Battery,BAT,Foxlink Corp,17.02
+PHN-VOR-0003,Camera Module,CAM,Wistron,52.56
+PHN-VOR-0003,Charging Port,CHG,Delta Electronics,8.71
+PHN-VOR-0003,Speaker Unit,SPK,Wistron,3.99
+PHN-ORB-0004,Logic Board,LB,Wistron,148.52
+PHN-ORB-0004,OLED Display,OLD,Wistron,60.88
+PHN-ORB-0004,Battery,BAT,Quanta Computer,29.63
+PHN-ORB-0004,Camera Module,CAM,Luxshare ICT,54.79
+PHN-ORB-0004,Charging Port,CHG,Pegatron,6.6
+PHN-ORB-0004,Speaker Unit,SPK,Luxshare ICT,6.39
+LAP-NIM-0004,Motherboard,MB,Luxshare ICT,72.89
+LAP-NIM-0004,Display Panel,DSP,Pegatron,103.42
+LAP-NIM-0004,Battery,BAT,Luxshare ICT,57.63
+LAP-NIM-0004,SSD Storage,SSD,Quanta Computer,107.6
+LAP-NIM-0004,RAM Module,RAM,Pegatron,18.67
+LAP-NIM-0004,Keyboard Assembly,KB,Quanta Computer,13.82
+LAP-NIM-0004,Cooling Fan,FAN,Wistron,11.22
+LAP-NIM-0004,Webcam Module,CAM,Luxshare ICT,5.68
+PHN-EMB-0005,Logic Board,LB,Luxshare ICT,202.97
+PHN-EMB-0005,OLED Display,OLD,Luxshare ICT,68.62
+PHN-EMB-0005,Battery,BAT,Quanta Computer,15.97
+PHN-EMB-0005,Camera Module,CAM,Quanta Computer,40.08
+PHN-EMB-0005,Charging Port,CHG,Luxshare ICT,4.08
+PHN-EMB-0005,Speaker Unit,SPK,Delta Electronics,3.29
+TAB-ZEN-0004,Logic Board,LB,Quanta Computer,115.08
+TAB-ZEN-0004,Touch Display,TDS,Quanta Computer,81.78
+TAB-ZEN-0004,Battery,BAT,Quanta Computer,37.38
+TAB-ZEN-0004,Speaker Unit,SPK,Pegatron,5.42
+TAB-ZEN-0004,Charging Port,CHG,Foxlink Corp,4.73
+TAB-ZEN-0005,Logic Board,LB,Pegatron,72.71
+TAB-ZEN-0005,Touch Display,TDS,Delta Electronics,42.74
+TAB-ZEN-0005,Battery,BAT,Pegatron,22.31
+TAB-ZEN-0005,Speaker Unit,SPK,Foxlink Corp,3.62
+TAB-ZEN-0005,Charging Port,CHG,Quanta Computer,9.75
+LAP-ORB-0005,Motherboard,MB,Luxshare ICT,121.25
+LAP-ORB-0005,Display Panel,DSP,Quanta Computer,118.14
+LAP-ORB-0005,Battery,BAT,Foxlink Corp,33.51
+LAP-ORB-0005,SSD Storage,SSD,Pegatron,72.32
+LAP-ORB-0005,RAM Module,RAM,Delta Electronics,87.58
+LAP-ORB-0005,Keyboard Assembly,KB,Pegatron,30.6
+LAP-ORB-0005,Cooling Fan,FAN,Delta Electronics,14.44
+LAP-ORB-0005,Webcam Module,CAM,Delta Electronics,3.83
+PHN-SOL-0006,Logic Board,LB,Luxshare ICT,139.22
+PHN-SOL-0006,OLED Display,OLD,Wistron,89.04
+PHN-SOL-0006,Battery,BAT,Foxlink Corp,31.22
+PHN-SOL-0006,Camera Module,CAM,Quanta Computer,20.73
+PHN-SOL-0006,Charging Port,CHG,Quanta Computer,9.39
+PHN-SOL-0006,Speaker Unit,SPK,Quanta Computer,9.75
+PHN-VOR-0007,Logic Board,LB,Quanta Computer,70.03
+PHN-VOR-0007,OLED Display,OLD,Pegatron,142.33
+PHN-VOR-0007,Battery,BAT,Quanta Computer,31.39
+PHN-VOR-0007,Camera Module,CAM,Foxlink Corp,26.18
+PHN-VOR-0007,Charging Port,CHG,Delta Electronics,5.01
+PHN-VOR-0007,Speaker Unit,SPK,Luxshare ICT,6.18
+PHN-NIM-0008,Logic Board,LB,Luxshare ICT,89.6
+PHN-NIM-0008,OLED Display,OLD,Quanta Computer,117.11
+PHN-NIM-0008,Battery,BAT,Foxlink Corp,12.13
+PHN-NIM-0008,Camera Module,CAM,Delta Electronics,15.06
+PHN-NIM-0008,Charging Port,CHG,Foxlink Corp,5.09
+PHN-NIM-0008,Speaker Unit,SPK,Wistron,7.16
+LAP-NIM-0006,Motherboard,MB,Luxshare ICT,213.99
+LAP-NIM-0006,Display Panel,DSP,Luxshare ICT,82.73
+LAP-NIM-0006,Battery,BAT,Foxlink Corp,41.87
+LAP-NIM-0006,SSD Storage,SSD,Wistron,34.45
+LAP-NIM-0006,RAM Module,RAM,Pegatron,54.33
+LAP-NIM-0006,Keyboard Assembly,KB,Wistron,15.75
+LAP-NIM-0006,Cooling Fan,FAN,Pegatron,8.35
+LAP-NIM-0006,Webcam Module,CAM,Pegatron,3.01
+PHN-EMB-0009,Logic Board,LB,Quanta Computer,124.27
+PHN-EMB-0009,OLED Display,OLD,Wistron,70.65
+PHN-EMB-0009,Battery,BAT,Delta Electronics,26.11
+PHN-EMB-0009,Camera Module,CAM,Delta Electronics,36.39
+PHN-EMB-0009,Charging Port,CHG,Foxlink Corp,7.92
+PHN-EMB-0009,Speaker Unit,SPK,Luxshare ICT,9.68
+LAP-SOL-0007,Motherboard,MB,Foxlink Corp,163.94
+LAP-SOL-0007,Display Panel,DSP,Quanta Computer,52.83
+LAP-SOL-0007,Battery,BAT,Luxshare ICT,64.24
+LAP-SOL-0007,SSD Storage,SSD,Wistron,64.9
+LAP-SOL-0007,RAM Module,RAM,Quanta Computer,32.09
+LAP-SOL-0007,Keyboard Assembly,KB,Delta Electronics,37.75
+LAP-SOL-0007,Cooling Fan,FAN,Luxshare ICT,12.39
+LAP-SOL-0007,Webcam Module,CAM,Quanta Computer,6.04
+TAB-EMB-0006,Logic Board,LB,Quanta Computer,97.1
+TAB-EMB-0006,Touch Display,TDS,Wistron,51.84
+TAB-EMB-0006,Battery,BAT,Pegatron,32.7
+TAB-EMB-0006,Speaker Unit,SPK,Quanta Computer,2.54
+TAB-EMB-0006,Charging Port,CHG,Wistron,11.73
+PHN-SOL-0010,Logic Board,LB,Delta Electronics,207.85
+PHN-SOL-0010,OLED Display,OLD,Delta Electronics,65.39
+PHN-SOL-0010,Battery,BAT,Wistron,16.63
+PHN-SOL-0010,Camera Module,CAM,Pegatron,19.91
+PHN-SOL-0010,Charging Port,CHG,Delta Electronics,7.46
+PHN-SOL-0010,Speaker Unit,SPK,Quanta Computer,9.17
+TAB-NIM-0007,Logic Board,LB,Luxshare ICT,104.21
+TAB-NIM-0007,Touch Display,TDS,Pegatron,39.8
+TAB-NIM-0007,Battery,BAT,Quanta Computer,16.1
+TAB-NIM-0007,Speaker Unit,SPK,Foxlink Corp,2.43
+TAB-NIM-0007,Charging Port,CHG,Delta Electronics,11.77
+WCH-SOL-0002,Logic Board,LB,Luxshare ICT,40.77
+WCH-SOL-0002,Display,DSP,Quanta Computer,17.1
+WCH-SOL-0002,Battery,BAT,Luxshare ICT,10.85
+WCH-SOL-0002,Sensor Module,SEN,Luxshare ICT,22.67
+WCH-SOL-0002,Strap/Band,STR,Foxlink Corp,3.47
+TAB-VOR-0008,Logic Board,LB,Wistron,171.11
+TAB-VOR-0008,Touch Display,TDS,Luxshare ICT,51.21
+TAB-VOR-0008,Battery,BAT,Luxshare ICT,38.2
+TAB-VOR-0008,Speaker Unit,SPK,Wistron,5.74
+TAB-VOR-0008,Charging Port,CHG,Quanta Computer,8.98
+PHN-ORB-0011,Logic Board,LB,Wistron,221.04
+PHN-ORB-0011,OLED Display,OLD,Foxlink Corp,88.67
+PHN-ORB-0011,Battery,BAT,Wistron,10.07
+PHN-ORB-0011,Camera Module,CAM,Quanta Computer,18.63
+PHN-ORB-0011,Charging Port,CHG,Foxlink Corp,11.6
+PHN-ORB-0011,Speaker Unit,SPK,Delta Electronics,6.49
+LAP-EMB-0008,Motherboard,MB,Wistron,120.82
+LAP-EMB-0008,Display Panel,DSP,Quanta Computer,156.86
+LAP-EMB-0008,Battery,BAT,Luxshare ICT,24.39
+LAP-EMB-0008,SSD Storage,SSD,Wistron,69.98
+LAP-EMB-0008,RAM Module,RAM,Quanta Computer,55.61
+LAP-EMB-0008,Keyboard Assembly,KB,Wistron,15.79
+LAP-EMB-0008,Cooling Fan,FAN,Quanta Computer,16.06
+LAP-EMB-0008,Webcam Module,CAM,Quanta Computer,3.27
+TAB-ZEN-0009,Logic Board,LB,Luxshare ICT,82.24
+TAB-ZEN-0009,Touch Display,TDS,Foxlink Corp,100.17
+TAB-ZEN-0009,Battery,BAT,Quanta Computer,22.52
+TAB-ZEN-0009,Speaker Unit,SPK,Foxlink Corp,2.5
+TAB-ZEN-0009,Charging Port,CHG,Luxshare ICT,5.31
+LAP-VOR-0009,Motherboard,MB,Pegatron,70.06
+LAP-VOR-0009,Display Panel,DSP,Wistron,94.08
+LAP-VOR-0009,Battery,BAT,Pegatron,36.75
+LAP-VOR-0009,SSD Storage,SSD,Luxshare ICT,29.14
+LAP-VOR-0009,RAM Module,RAM,Wistron,68.75
+LAP-VOR-0009,Keyboard Assembly,KB,Wistron,37.73
+LAP-VOR-0009,Cooling Fan,FAN,Pegatron,5.06
+LAP-VOR-0009,Webcam Module,CAM,Luxshare ICT,11.25
+PHN-ZEN-0012,Logic Board,LB,Foxlink Corp,240.37
+PHN-ZEN-0012,OLED Display,OLD,Delta Electronics,42.67
+PHN-ZEN-0012,Battery,BAT,Luxshare ICT,12.68
+PHN-ZEN-0012,Camera Module,CAM,Quanta Computer,58.05
+PHN-ZEN-0012,Charging Port,CHG,Quanta Computer,10.11
+PHN-ZEN-0012,Speaker Unit,SPK,Delta Electronics,8.52
+LAP-VOR-0010,Motherboard,MB,Delta Electronics,208.5
+LAP-VOR-0010,Display Panel,DSP,Luxshare ICT,51.13
+LAP-VOR-0010,Battery,BAT,Luxshare ICT,35.17
+LAP-VOR-0010,SSD Storage,SSD,Pegatron,98.42
+LAP-VOR-0010,RAM Module,RAM,Wistron,32.71
+LAP-VOR-0010,Keyboard Assembly,KB,Pegatron,23.82
+LAP-VOR-0010,Cooling Fan,FAN,Delta Electronics,6.19
+LAP-VOR-0010,Webcam Module,CAM,Delta Electronics,6.53
+LAP-SOL-0011,Motherboard,MB,Foxlink Corp,99.57
+LAP-SOL-0011,Display Panel,DSP,Quanta Computer,134.44
+LAP-SOL-0011,Battery,BAT,Wistron,47.63
+LAP-SOL-0011,SSD Storage,SSD,Quanta Computer,40.27
+LAP-SOL-0011,RAM Module,RAM,Foxlink Corp,81.26
+LAP-SOL-0011,Keyboard Assembly,KB,Foxlink Corp,17.95
+LAP-SOL-0011,Cooling Fan,FAN,Quanta Computer,8.13
+LAP-SOL-0011,Webcam Module,CAM,Luxshare ICT,7.49
+TAB-ZEN-0010,Logic Board,LB,Delta Electronics,176.38
+TAB-ZEN-0010,Touch Display,TDS,Quanta Computer,54.91
+TAB-ZEN-0010,Battery,BAT,Luxshare ICT,24.91
+TAB-ZEN-0010,Speaker Unit,SPK,Pegatron,3.88
+TAB-ZEN-0010,Charging Port,CHG,Luxshare ICT,10.62
+LAP-NIM-0012,Motherboard,MB,Wistron,181.53
+LAP-NIM-0012,Display Panel,DSP,Pegatron,88.19
+LAP-NIM-0012,Battery,BAT,Wistron,33.38
+LAP-NIM-0012,SSD Storage,SSD,Delta Electronics,95.12
+LAP-NIM-0012,RAM Module,RAM,Delta Electronics,47.95
+LAP-NIM-0012,Keyboard Assembly,KB,Delta Electronics,17.36
+LAP-NIM-0012,Cooling Fan,FAN,Pegatron,9.22
+LAP-NIM-0012,Webcam Module,CAM,Foxlink Corp,4.69
+PHN-EMB-0013,Logic Board,LB,Delta Electronics,141.29
+PHN-EMB-0013,OLED Display,OLD,Delta Electronics,95.81
+PHN-EMB-0013,Battery,BAT,Foxlink Corp,26.24
+PHN-EMB-0013,Camera Module,CAM,Foxlink Corp,44.4
+PHN-EMB-0013,Charging Port,CHG,Quanta Computer,3.92
+PHN-EMB-0013,Speaker Unit,SPK,Delta Electronics,9.06
+TAB-EMB-0011,Logic Board,LB,Wistron,159.27
+TAB-EMB-0011,Touch Display,TDS,Wistron,38.43
+TAB-EMB-0011,Battery,BAT,Foxlink Corp,18.52
+TAB-EMB-0011,Speaker Unit,SPK,Pegatron,3.52
+TAB-EMB-0011,Charging Port,CHG,Foxlink Corp,4.75
+LAP-ZEN-0013,Motherboard,MB,Delta Electronics,119.56
+LAP-ZEN-0013,Display Panel,DSP,Wistron,108.38
+LAP-ZEN-0013,Battery,BAT,Luxshare ICT,58.75
+LAP-ZEN-0013,SSD Storage,SSD,Foxlink Corp,114.84
+LAP-ZEN-0013,RAM Module,RAM,Luxshare ICT,62.81
+LAP-ZEN-0013,Keyboard Assembly,KB,Delta Electronics,28.6
+LAP-ZEN-0013,Cooling Fan,FAN,Wistron,5.56
+LAP-ZEN-0013,Webcam Module,CAM,Delta Electronics,4.27
+PHN-ORB-0014,Logic Board,LB,Foxlink Corp,249.98
+PHN-ORB-0014,OLED Display,OLD,Luxshare ICT,105.94
+PHN-ORB-0014,Battery,BAT,Foxlink Corp,32.85
+PHN-ORB-0014,Camera Module,CAM,Quanta Computer,51.85
+PHN-ORB-0014,Charging Port,CHG,Delta Electronics,9.1
+PHN-ORB-0014,Speaker Unit,SPK,Foxlink Corp,6.97
+LAP-ZEN-0014,Motherboard,MB,Quanta Computer,92.55
+LAP-ZEN-0014,Display Panel,DSP,Foxlink Corp,121.25
+LAP-ZEN-0014,Battery,BAT,Quanta Computer,40.41
+LAP-ZEN-0014,SSD Storage,SSD,Delta Electronics,88.08
+LAP-ZEN-0014,RAM Module,RAM,Foxlink Corp,62.94
+LAP-ZEN-0014,Keyboard Assembly,KB,Quanta Computer,29.59
+LAP-ZEN-0014,Cooling Fan,FAN,Quanta Computer,15.43
+LAP-ZEN-0014,Webcam Module,CAM,Luxshare ICT,11.89
+TAB-ORB-0012,Logic Board,LB,Foxlink Corp,89.99
+TAB-ORB-0012,Touch Display,TDS,Pegatron,61.55
+TAB-ORB-0012,Battery,BAT,Quanta Computer,36.74
+TAB-ORB-0012,Speaker Unit,SPK,Wistron,5.33
+TAB-ORB-0012,Charging Port,CHG,Quanta Computer,8.8
+LAP-SOL-0015,Motherboard,MB,Delta Electronics,176.49
+LAP-SOL-0015,Display Panel,DSP,Quanta Computer,172.46
+LAP-SOL-0015,Battery,BAT,Quanta Computer,65.08
+LAP-SOL-0015,SSD Storage,SSD,Foxlink Corp,35.79
+LAP-SOL-0015,RAM Module,RAM,Wistron,45.47
+LAP-SOL-0015,Keyboard Assembly,KB,Delta Electronics,23.83
+LAP-SOL-0015,Cooling Fan,FAN,Foxlink Corp,6.95
+LAP-SOL-0015,Webcam Module,CAM,Luxshare ICT,7.96
+WCH-ORB-0003,Logic Board,LB,Quanta Computer,60.32
+WCH-ORB-0003,Display,DSP,Pegatron,18.12
+WCH-ORB-0003,Battery,BAT,Luxshare ICT,17.05
+WCH-ORB-0003,Sensor Module,SEN,Delta Electronics,15.09
+WCH-ORB-0003,Strap/Band,STR,Delta Electronics,6.52
+EAR-ZEN-0004,Battery,BAT,Foxlink Corp,5.13
+EAR-ZEN-0004,Speaker Driver,SPD,Quanta Computer,3.98
+EAR-ZEN-0004,Charging Case,CSE,Delta Electronics,12.29
+EAR-ZEN-0004,Bluetooth Chip,BTC,Foxlink Corp,5.11
+EAR-ZEN-0005,Battery,BAT,Quanta Computer,7.85
+EAR-ZEN-0005,Speaker Driver,SPD,Pegatron,5.83
+EAR-ZEN-0005,Charging Case,CSE,Quanta Computer,14.19
+EAR-ZEN-0005,Bluetooth Chip,BTC,Luxshare ICT,3.6
+TAB-EMB-0013,Logic Board,LB,Delta Electronics,130.64
+TAB-EMB-0013,Touch Display,TDS,Delta Electronics,89.43
+TAB-EMB-0013,Battery,BAT,Pegatron,29.39
+TAB-EMB-0013,Speaker Unit,SPK,Quanta Computer,8.77
+TAB-EMB-0013,Charging Port,CHG,Delta Electronics,4.65
+TAB-SOL-0014,Logic Board,LB,Pegatron,55.42
+TAB-SOL-0014,Touch Display,TDS,Wistron,48.3
+TAB-SOL-0014,Battery,BAT,Delta Electronics,15.45
+TAB-SOL-0014,Speaker Unit,SPK,Delta Electronics,9.77
+TAB-SOL-0014,Charging Port,CHG,Pegatron,3.37
+PHN-EMB-0015,Logic Board,LB,Luxshare ICT,221.65
+PHN-EMB-0015,OLED Display,OLD,Wistron,44.19
+PHN-EMB-0015,Battery,BAT,Pegatron,12.94
+PHN-EMB-0015,Camera Module,CAM,Luxshare ICT,35.51
+PHN-EMB-0015,Charging Port,CHG,Luxshare ICT,10.0
+PHN-EMB-0015,Speaker Unit,SPK,Pegatron,5.36
+LAP-VOR-0016,Motherboard,MB,Quanta Computer,99.88
+LAP-VOR-0016,Display Panel,DSP,Quanta Computer,135.65
+LAP-VOR-0016,Battery,BAT,Delta Electronics,45.18
+LAP-VOR-0016,SSD Storage,SSD,Pegatron,27.22
+LAP-VOR-0016,RAM Module,RAM,Quanta Computer,88.96
+LAP-VOR-0016,Keyboard Assembly,KB,Pegatron,17.06
+LAP-VOR-0016,Cooling Fan,FAN,Quanta Computer,16.7
+LAP-VOR-0016,Webcam Module,CAM,Quanta Computer,10.53
+TAB-VOR-0015,Logic Board,LB,Foxlink Corp,102.04
+TAB-VOR-0015,Touch Display,TDS,Quanta Computer,45.92
+TAB-VOR-0015,Battery,BAT,Quanta Computer,22.23
+TAB-VOR-0015,Speaker Unit,SPK,Luxshare ICT,6.03
+TAB-VOR-0015,Charging Port,CHG,Luxshare ICT,3.37
+LAP-SOL-0017,Motherboard,MB,Luxshare ICT,80.84
+LAP-SOL-0017,Display Panel,DSP,Luxshare ICT,90.78
+LAP-SOL-0017,Battery,BAT,Foxlink Corp,45.57
+LAP-SOL-0017,SSD Storage,SSD,Quanta Computer,96.45
+LAP-SOL-0017,RAM Module,RAM,Delta Electronics,63.96
+LAP-SOL-0017,Keyboard Assembly,KB,Foxlink Corp,10.78
+LAP-SOL-0017,Cooling Fan,FAN,Luxshare ICT,19.94
+LAP-SOL-0017,Webcam Module,CAM,Foxlink Corp,9.23
+LAP-VOR-0018,Motherboard,MB,Quanta Computer,90.99
+LAP-VOR-0018,Display Panel,DSP,Delta Electronics,87.42
+LAP-VOR-0018,Battery,BAT,Luxshare ICT,54.31
+LAP-VOR-0018,SSD Storage,SSD,Foxlink Corp,113.41
+LAP-VOR-0018,RAM Module,RAM,Pegatron,77.48
+LAP-VOR-0018,Keyboard Assembly,KB,Delta Electronics,32.69
+LAP-VOR-0018,Cooling Fan,FAN,Pegatron,9.86
+LAP-VOR-0018,Webcam Module,CAM,Quanta Computer,5.47
+PHN-NIM-0016,Logic Board,LB,Pegatron,95.84
+PHN-NIM-0016,OLED Display,OLD,Quanta Computer,146.08
+PHN-NIM-0016,Battery,BAT,Wistron,15.21
+PHN-NIM-0016,Camera Module,CAM,Delta Electronics,42.71
+PHN-NIM-0016,Charging Port,CHG,Foxlink Corp,5.87
+PHN-NIM-0016,Speaker Unit,SPK,Quanta Computer,3.59
+TAB-SOL-0016,Logic Board,LB,Wistron,70.96
+TAB-SOL-0016,Touch Display,TDS,Quanta Computer,92.77
+TAB-SOL-0016,Battery,BAT,Wistron,16.72
+TAB-SOL-0016,Speaker Unit,SPK,Pegatron,2.92
+TAB-SOL-0016,Charging Port,CHG,Wistron,3.44
+TAB-VOR-0017,Logic Board,LB,Quanta Computer,175.6
+TAB-VOR-0017,Touch Display,TDS,Pegatron,82.19
+TAB-VOR-0017,Battery,BAT,Foxlink Corp,31.28
+TAB-VOR-0017,Speaker Unit,SPK,Pegatron,4.02
+TAB-VOR-0017,Charging Port,CHG,Quanta Computer,8.67
+PHN-ORB-0017,Logic Board,LB,Wistron,202.83
+PHN-ORB-0017,OLED Display,OLD,Wistron,69.12
+PHN-ORB-0017,Battery,BAT,Wistron,24.43
+PHN-ORB-0017,Camera Module,CAM,Foxlink Corp,29.89
+PHN-ORB-0017,Charging Port,CHG,Delta Electronics,6.98
+PHN-ORB-0017,Speaker Unit,SPK,Foxlink Corp,6.92
+PHN-ZEN-0018,Logic Board,LB,Pegatron,123.35
+PHN-ZEN-0018,OLED Display,OLD,Luxshare ICT,67.9
+PHN-ZEN-0018,Battery,BAT,Pegatron,34.15
+PHN-ZEN-0018,Camera Module,CAM,Wistron,56.78
+PHN-ZEN-0018,Charging Port,CHG,Luxshare ICT,9.6
+PHN-ZEN-0018,Speaker Unit,SPK,Delta Electronics,2.27
+WCH-SOL-0004,Logic Board,LB,Luxshare ICT,34.55
+WCH-SOL-0004,Display,DSP,Pegatron,30.13
+WCH-SOL-0004,Battery,BAT,Foxlink Corp,9.73
+WCH-SOL-0004,Sensor Module,SEN,Delta Electronics,7.64
+WCH-SOL-0004,Strap/Band,STR,Foxlink Corp,9.96
+WCH-NIM-0005,Logic Board,LB,Foxlink Corp,21.11
+WCH-NIM-0005,Display,DSP,Wistron,34.85
+WCH-NIM-0005,Battery,BAT,Wistron,6.38
+WCH-NIM-0005,Sensor Module,SEN,Quanta Computer,15.68
+WCH-NIM-0005,Strap/Band,STR,Pegatron,9.59
+LAP-SOL-0019,Motherboard,MB,Wistron,81.4
+LAP-SOL-0019,Display Panel,DSP,Quanta Computer,131.11
+LAP-SOL-0019,Battery,BAT,Foxlink Corp,27.93
+LAP-SOL-0019,SSD Storage,SSD,Delta Electronics,113.98
+LAP-SOL-0019,RAM Module,RAM,Quanta Computer,68.06
+LAP-SOL-0019,Keyboard Assembly,KB,Luxshare ICT,12.87
+LAP-SOL-0019,Cooling Fan,FAN,Luxshare ICT,7.17
+LAP-SOL-0019,Webcam Module,CAM,Quanta Computer,10.04
+EAR-SOL-0006,Battery,BAT,Foxlink Corp,6.87
+EAR-SOL-0006,Speaker Driver,SPD,Pegatron,3.51
+EAR-SOL-0006,Charging Case,CSE,Pegatron,13.82
+EAR-SOL-0006,Bluetooth Chip,BTC,Quanta Computer,7.52
+EAR-VOR-0007,Battery,BAT,Pegatron,5.61
+EAR-VOR-0007,Speaker Driver,SPD,Delta Electronics,9.6
+EAR-VOR-0007,Charging Case,CSE,Foxlink Corp,5.82
+EAR-VOR-0007,Bluetooth Chip,BTC,Pegatron,3.31
+PHN-VOR-0019,Logic Board,LB,Delta Electronics,74.54
+PHN-VOR-0019,OLED Display,OLD,Foxlink Corp,66.14
+PHN-VOR-0019,Battery,BAT,Foxlink Corp,32.79
+PHN-VOR-0019,Camera Module,CAM,Pegatron,15.56
+PHN-VOR-0019,Charging Port,CHG,Delta Electronics,8.91
+PHN-VOR-0019,Speaker Unit,SPK,Delta Electronics,3.14
+PHN-VOR-0020,Logic Board,LB,Luxshare ICT,163.29
+PHN-VOR-0020,OLED Display,OLD,Luxshare ICT,95.76
+PHN-VOR-0020,Battery,BAT,Pegatron,20.38
+PHN-VOR-0020,Camera Module,CAM,Wistron,22.86
+PHN-VOR-0020,Charging Port,CHG,Luxshare ICT,3.57
+PHN-VOR-0020,Speaker Unit,SPK,Luxshare ICT,2.39
+PHN-NIM-0021,Logic Board,LB,Luxshare ICT,210.94
+PHN-NIM-0021,OLED Display,OLD,Quanta Computer,99.22
+PHN-NIM-0021,Battery,BAT,Luxshare ICT,31.11
+PHN-NIM-0021,Camera Module,CAM,Foxlink Corp,56.05
+PHN-NIM-0021,Charging Port,CHG,Quanta Computer,9.68
+PHN-NIM-0021,Speaker Unit,SPK,Foxlink Corp,3.4
+WCH-EMB-0006,Logic Board,LB,Luxshare ICT,33.07
+WCH-EMB-0006,Display,DSP,Wistron,16.36
+WCH-EMB-0006,Battery,BAT,Luxshare ICT,16.59
+WCH-EMB-0006,Sensor Module,SEN,Wistron,23.86
+WCH-EMB-0006,Strap/Band,STR,Wistron,11.25
+EAR-VOR-0008,Battery,BAT,Luxshare ICT,5.82
+EAR-VOR-0008,Speaker Driver,SPD,Pegatron,6.92
+EAR-VOR-0008,Charging Case,CSE,Wistron,14.69
+EAR-VOR-0008,Bluetooth Chip,BTC,Delta Electronics,7.49
+PHN-EMB-0022,Logic Board,LB,Pegatron,85.38
+PHN-EMB-0022,OLED Display,OLD,Wistron,41.68
+PHN-EMB-0022,Battery,BAT,Luxshare ICT,32.62
+PHN-EMB-0022,Camera Module,CAM,Delta Electronics,24.12
+PHN-EMB-0022,Charging Port,CHG,Wistron,9.72
+PHN-EMB-0022,Speaker Unit,SPK,Quanta Computer,3.54
+LAP-EMB-0020,Motherboard,MB,Delta Electronics,112.57
+LAP-EMB-0020,Display Panel,DSP,Luxshare ICT,99.33
+LAP-EMB-0020,Battery,BAT,Luxshare ICT,66.08
+LAP-EMB-0020,SSD Storage,SSD,Pegatron,104.94
+LAP-EMB-0020,RAM Module,RAM,Pegatron,50.21
+LAP-EMB-0020,Keyboard Assembly,KB,Foxlink Corp,30.93
+LAP-EMB-0020,Cooling Fan,FAN,Luxshare ICT,11.56
+LAP-EMB-0020,Webcam Module,CAM,Wistron,5.1
+WCH-ZEN-0007,Logic Board,LB,Quanta Computer,59.46
+WCH-ZEN-0007,Display,DSP,Foxlink Corp,36.79
+WCH-ZEN-0007,Battery,BAT,Delta Electronics,12.35
+WCH-ZEN-0007,Sensor Module,SEN,Foxlink Corp,7.89
+WCH-ZEN-0007,Strap/Band,STR,Pegatron,3.45
+WCH-VOR-0008,Logic Board,LB,Wistron,66.45
+WCH-VOR-0008,Display,DSP,Luxshare ICT,49.21
+WCH-VOR-0008,Battery,BAT,Foxlink Corp,5.37
+WCH-VOR-0008,Sensor Module,SEN,Luxshare ICT,7.77
+WCH-VOR-0008,Strap/Band,STR,Luxshare ICT,10.24
+WCH-SOL-0009,Logic Board,LB,Foxlink Corp,23.39
+WCH-SOL-0009,Display,DSP,Pegatron,17.3
+WCH-SOL-0009,Battery,BAT,Delta Electronics,14.9
+WCH-SOL-0009,Sensor Module,SEN,Pegatron,21.35
+WCH-SOL-0009,Strap/Band,STR,Foxlink Corp,13.59
+WCH-EMB-0010,Logic Board,LB,Luxshare ICT,63.99
+WCH-EMB-0010,Display,DSP,Foxlink Corp,48.05
+WCH-EMB-0010,Battery,BAT,Delta Electronics,8.21
+WCH-EMB-0010,Sensor Module,SEN,Foxlink Corp,7.24
+WCH-EMB-0010,Strap/Band,STR,Luxshare ICT,14.34
+EAR-VOR-0009,Battery,BAT,Luxshare ICT,2.52
+EAR-VOR-0009,Speaker Driver,SPD,Quanta Computer,8.69
+EAR-VOR-0009,Charging Case,CSE,Foxlink Corp,5.1
+EAR-VOR-0009,Bluetooth Chip,BTC,Luxshare ICT,8.54
+PHN-ZEN-0023,Logic Board,LB,Wistron,106.9
+PHN-ZEN-0023,OLED Display,OLD,Wistron,77.02
+PHN-ZEN-0023,Battery,BAT,Wistron,10.52
+PHN-ZEN-0023,Camera Module,CAM,Foxlink Corp,56.85
+PHN-ZEN-0023,Charging Port,CHG,Wistron,9.44
+PHN-ZEN-0023,Speaker Unit,SPK,Pegatron,9.28
+LAP-EMB-0021,Motherboard,MB,Wistron,140.6
+LAP-EMB-0021,Display Panel,DSP,Foxlink Corp,130.38
+LAP-EMB-0021,Battery,BAT,Foxlink Corp,59.45
+LAP-EMB-0021,SSD Storage,SSD,Foxlink Corp,66.46
+LAP-EMB-0021,RAM Module,RAM,Luxshare ICT,41.01
+LAP-EMB-0021,Keyboard Assembly,KB,Pegatron,11.44
+LAP-EMB-0021,Cooling Fan,FAN,Foxlink Corp,8.25
+LAP-EMB-0021,Webcam Module,CAM,Wistron,8.17
+TAB-VOR-0018,Logic Board,LB,Foxlink Corp,72.15
+TAB-VOR-0018,Touch Display,TDS,Wistron,79.5
+TAB-VOR-0018,Battery,BAT,Foxlink Corp,33.34
+TAB-VOR-0018,Speaker Unit,SPK,Quanta Computer,2.03
+TAB-VOR-0018,Charging Port,CHG,Luxshare ICT,3.86
+WCH-NIM-0011,Logic Board,LB,Delta Electronics,59.84
+WCH-NIM-0011,Display,DSP,Pegatron,48.85
+WCH-NIM-0011,Battery,BAT,Pegatron,9.51
+WCH-NIM-0011,Sensor Module,SEN,Delta Electronics,10.21
+WCH-NIM-0011,Strap/Band,STR,Delta Electronics,5.69
+LAP-ORB-0022,Motherboard,MB,Delta Electronics,210.13
+LAP-ORB-0022,Display Panel,DSP,Foxlink Corp,114.78
+LAP-ORB-0022,Battery,BAT,Foxlink Corp,66.94
+LAP-ORB-0022,SSD Storage,SSD,Luxshare ICT,71.58
+LAP-ORB-0022,RAM Module,RAM,Foxlink Corp,57.09
+LAP-ORB-0022,Keyboard Assembly,KB,Wistron,28.84
+LAP-ORB-0022,Cooling Fan,FAN,Quanta Computer,6.43
+LAP-ORB-0022,Webcam Module,CAM,Luxshare ICT,11.03
+LAP-VOR-0023,Motherboard,MB,Luxshare ICT,73.79
+LAP-VOR-0023,Display Panel,DSP,Delta Electronics,53.27
+LAP-VOR-0023,Battery,BAT,Quanta Computer,35.16
+LAP-VOR-0023,SSD Storage,SSD,Pegatron,110.62
+LAP-VOR-0023,RAM Module,RAM,Luxshare ICT,27.83
+LAP-VOR-0023,Keyboard Assembly,KB,Quanta Computer,17.01
+LAP-VOR-0023,Cooling Fan,FAN,Pegatron,6.9
+LAP-VOR-0023,Webcam Module,CAM,Pegatron,9.79
+TAB-SOL-0019,Logic Board,LB,Wistron,134.02
+TAB-SOL-0019,Touch Display,TDS,Pegatron,84.43
+TAB-SOL-0019,Battery,BAT,Quanta Computer,16.35
+TAB-SOL-0019,Speaker Unit,SPK,Luxshare ICT,7.3
+TAB-SOL-0019,Charging Port,CHG,Quanta Computer,5.91
+PHN-NIM-0024,Logic Board,LB,Wistron,148.98
+PHN-NIM-0024,OLED Display,OLD,Delta Electronics,103.71
+PHN-NIM-0024,Battery,BAT,Luxshare ICT,18.35
+PHN-NIM-0024,Camera Module,CAM,Delta Electronics,54.83
+PHN-NIM-0024,Charging Port,CHG,Wistron,7.57
+PHN-NIM-0024,Speaker Unit,SPK,Luxshare ICT,4.41
+WCH-ZEN-0012,Logic Board,LB,Pegatron,61.33
+WCH-ZEN-0012,Display,DSP,Delta Electronics,20.41
+WCH-ZEN-0012,Battery,BAT,Luxshare ICT,17.67
+WCH-ZEN-0012,Sensor Module,SEN,Pegatron,11.53
+WCH-ZEN-0012,Strap/Band,STR,Delta Electronics,6.53
+WCH-VOR-0013,Logic Board,LB,Delta Electronics,36.4
+WCH-VOR-0013,Display,DSP,Luxshare ICT,24.05
+WCH-VOR-0013,Battery,BAT,Delta Electronics,17.93
+WCH-VOR-0013,Sensor Module,SEN,Foxlink Corp,24.25
+WCH-VOR-0013,Strap/Band,STR,Delta Electronics,4.54
+PHN-SOL-0025,Logic Board,LB,Wistron,247.09
+PHN-SOL-0025,OLED Display,OLD,Quanta Computer,120.66
+PHN-SOL-0025,Battery,BAT,Foxlink Corp,16.85
+PHN-SOL-0025,Camera Module,CAM,Foxlink Corp,43.71
+PHN-SOL-0025,Charging Port,CHG,Quanta Computer,5.53
+PHN-SOL-0025,Speaker Unit,SPK,Foxlink Corp,5.71
+EAR-EMB-0010,Battery,BAT,Quanta Computer,4.39
+EAR-EMB-0010,Speaker Driver,SPD,Pegatron,9.24
+EAR-EMB-0010,Charging Case,CSE,Wistron,14.79
+EAR-EMB-0010,Bluetooth Chip,BTC,Delta Electronics,6.24
+EAR-NIM-0011,Battery,BAT,Luxshare ICT,3.54
+EAR-NIM-0011,Speaker Driver,SPD,Luxshare ICT,6.64
+EAR-NIM-0011,Charging Case,CSE,Quanta Computer,6.67
+EAR-NIM-0011,Bluetooth Chip,BTC,Pegatron,7.91
+PHN-NIM-0026,Logic Board,LB,Quanta Computer,204.84
+PHN-NIM-0026,OLED Display,OLD,Luxshare ICT,133.06
+PHN-NIM-0026,Battery,BAT,Luxshare ICT,28.06
+PHN-NIM-0026,Camera Module,CAM,Delta Electronics,46.5
+PHN-NIM-0026,Charging Port,CHG,Luxshare ICT,9.12
+PHN-NIM-0026,Speaker Unit,SPK,Quanta Computer,2.99
+LAP-ORB-0024,Motherboard,MB,Luxshare ICT,110.08
+LAP-ORB-0024,Display Panel,DSP,Quanta Computer,141.08
+LAP-ORB-0024,Battery,BAT,Quanta Computer,32.12
+LAP-ORB-0024,SSD Storage,SSD,Luxshare ICT,92.75
+LAP-ORB-0024,RAM Module,RAM,Quanta Computer,26.73
+LAP-ORB-0024,Keyboard Assembly,KB,Foxlink Corp,24.48
+LAP-ORB-0024,Cooling Fan,FAN,Quanta Computer,14.32
+LAP-ORB-0024,Webcam Module,CAM,Luxshare ICT,7.66
+PHN-SOL-0027,Logic Board,LB,Delta Electronics,237.44
+PHN-SOL-0027,OLED Display,OLD,Wistron,138.39
+PHN-SOL-0027,Battery,BAT,Quanta Computer,29.45
+PHN-SOL-0027,Camera Module,CAM,Foxlink Corp,52.43
+PHN-SOL-0027,Charging Port,CHG,Pegatron,3.34
+PHN-SOL-0027,Speaker Unit,SPK,Luxshare ICT,3.74
+LAP-NIM-0025,Motherboard,MB,Delta Electronics,185.09
+LAP-NIM-0025,Display Panel,DSP,Foxlink Corp,117.5
+LAP-NIM-0025,Battery,BAT,Quanta Computer,62.36
+LAP-NIM-0025,SSD Storage,SSD,Luxshare ICT,76.4
+LAP-NIM-0025,RAM Module,RAM,Foxlink Corp,50.68
+LAP-NIM-0025,Keyboard Assembly,KB,Wistron,29.18
+LAP-NIM-0025,Cooling Fan,FAN,Quanta Computer,12.83
+LAP-NIM-0025,Webcam Module,CAM,Quanta Computer,9.68
+WCH-ORB-0014,Logic Board,LB,Luxshare ICT,30.5
+WCH-ORB-0014,Display,DSP,Pegatron,21.43
+WCH-ORB-0014,Battery,BAT,Foxlink Corp,14.92
+WCH-ORB-0014,Sensor Module,SEN,Pegatron,19.58
+WCH-ORB-0014,Strap/Band,STR,Foxlink Corp,6.62
+LAP-ZEN-0026,Motherboard,MB,Quanta Computer,100.39
+LAP-ZEN-0026,Display Panel,DSP,Foxlink Corp,101.96
+LAP-ZEN-0026,Battery,BAT,Quanta Computer,23.76
+LAP-ZEN-0026,SSD Storage,SSD,Luxshare ICT,84.71
+LAP-ZEN-0026,RAM Module,RAM,Wistron,41.41
+LAP-ZEN-0026,Keyboard Assembly,KB,Wistron,13.28
+LAP-ZEN-0026,Cooling Fan,FAN,Pegatron,16.12
+LAP-ZEN-0026,Webcam Module,CAM,Quanta Computer,11.74
+PHN-ORB-0028,Logic Board,LB,Delta Electronics,153.18
+PHN-ORB-0028,OLED Display,OLD,Foxlink Corp,54.22
+PHN-ORB-0028,Battery,BAT,Luxshare ICT,30.24
+PHN-ORB-0028,Camera Module,CAM,Luxshare ICT,23.69
+PHN-ORB-0028,Charging Port,CHG,Delta Electronics,8.06
+PHN-ORB-0028,Speaker Unit,SPK,Delta Electronics,8.52
+EAR-SOL-0012,Battery,BAT,Luxshare ICT,4.12
+EAR-SOL-0012,Speaker Driver,SPD,Quanta Computer,10.48
+EAR-SOL-0012,Charging Case,CSE,Wistron,9.15
+EAR-SOL-0012,Bluetooth Chip,BTC,Luxshare ICT,8.32
+TAB-NIM-0020,Logic Board,LB,Quanta Computer,66.27
+TAB-NIM-0020,Touch Display,TDS,Delta Electronics,65.15
+TAB-NIM-0020,Battery,BAT,Quanta Computer,19.49
+TAB-NIM-0020,Speaker Unit,SPK,Quanta Computer,7.5
+TAB-NIM-0020,Charging Port,CHG,Quanta Computer,9.11
+WCH-EMB-0015,Logic Board,LB,Luxshare ICT,20.13
+WCH-EMB-0015,Display,DSP,Wistron,42.96
+WCH-EMB-0015,Battery,BAT,Wistron,8.18
+WCH-EMB-0015,Sensor Module,SEN,Quanta Computer,11.41
+WCH-EMB-0015,Strap/Band,STR,Luxshare ICT,7.57
+EAR-ORB-0013,Battery,BAT,Wistron,2.51
+EAR-ORB-0013,Speaker Driver,SPD,Wistron,4.37
+EAR-ORB-0013,Charging Case,CSE,Foxlink Corp,13.4
+EAR-ORB-0013,Bluetooth Chip,BTC,Pegatron,3.6
+WCH-ORB-0016,Logic Board,LB,Delta Electronics,65.29
+WCH-ORB-0016,Display,DSP,Wistron,33.57
+WCH-ORB-0016,Battery,BAT,Foxlink Corp,13.23
+WCH-ORB-0016,Sensor Module,SEN,Delta Electronics,18.15
+WCH-ORB-0016,Strap/Band,STR,Luxshare ICT,14.37
+TAB-ORB-0021,Logic Board,LB,Pegatron,88.09
+TAB-ORB-0021,Touch Display,TDS,Delta Electronics,43.63
+TAB-ORB-0021,Battery,BAT,Delta Electronics,35.92
+TAB-ORB-0021,Speaker Unit,SPK,Wistron,8.21
+TAB-ORB-0021,Charging Port,CHG,Delta Electronics,10.06
+LAP-EMB-0027,Motherboard,MB,Pegatron,204.65
+LAP-EMB-0027,Display Panel,DSP,Luxshare ICT,71.83
+LAP-EMB-0027,Battery,BAT,Foxlink Corp,50.42
+LAP-EMB-0027,SSD Storage,SSD,Pegatron,88.5
+LAP-EMB-0027,RAM Module,RAM,Wistron,74.11
+LAP-EMB-0027,Keyboard Assembly,KB,Luxshare ICT,15.92
+LAP-EMB-0027,Cooling Fan,FAN,Foxlink Corp,8.2
+LAP-EMB-0027,Webcam Module,CAM,Quanta Computer,9.68
+LAP-ORB-0028,Motherboard,MB,Foxlink Corp,167.4
+LAP-ORB-0028,Display Panel,DSP,Wistron,122.16
+LAP-ORB-0028,Battery,BAT,Delta Electronics,40.95
+LAP-ORB-0028,SSD Storage,SSD,Pegatron,69.96
+LAP-ORB-0028,RAM Module,RAM,Quanta Computer,19.38
+LAP-ORB-0028,Keyboard Assembly,KB,Luxshare ICT,37.16
+LAP-ORB-0028,Cooling Fan,FAN,Quanta Computer,12.37
+LAP-ORB-0028,Webcam Module,CAM,Pegatron,4.48
+TAB-NIM-0022,Logic Board,LB,Foxlink Corp,162.17
+TAB-NIM-0022,Touch Display,TDS,Wistron,48.63
+TAB-NIM-0022,Battery,BAT,Pegatron,25.1
+TAB-NIM-0022,Speaker Unit,SPK,Wistron,5.98
+TAB-NIM-0022,Charging Port,CHG,Wistron,10.57
+EAR-EMB-0014,Battery,BAT,Luxshare ICT,4.55
+EAR-EMB-0014,Speaker Driver,SPD,Luxshare ICT,3.68
+EAR-EMB-0014,Charging Case,CSE,Luxshare ICT,7.96
+EAR-EMB-0014,Bluetooth Chip,BTC,Pegatron,3.2
+EAR-ORB-0015,Battery,BAT,Luxshare ICT,2.28
+EAR-ORB-0015,Speaker Driver,SPD,Wistron,11.38
+EAR-ORB-0015,Charging Case,CSE,Foxlink Corp,12.89
+EAR-ORB-0015,Bluetooth Chip,BTC,Quanta Computer,6.57
+PHN-VOR-0029,Logic Board,LB,Delta Electronics,206.29
+PHN-VOR-0029,OLED Display,OLD,Luxshare ICT,43.73
+PHN-VOR-0029,Battery,BAT,Delta Electronics,20.39
+PHN-VOR-0029,Camera Module,CAM,Luxshare ICT,30.24
+PHN-VOR-0029,Charging Port,CHG,Quanta Computer,6.3
+PHN-VOR-0029,Speaker Unit,SPK,Pegatron,8.23
+PHN-SOL-0030,Logic Board,LB,Delta Electronics,208.7
+PHN-SOL-0030,OLED Display,OLD,Wistron,71.26
+PHN-SOL-0030,Battery,BAT,Pegatron,20.56
+PHN-SOL-0030,Camera Module,CAM,Wistron,17.37
+PHN-SOL-0030,Charging Port,CHG,Quanta Computer,5.64
+PHN-SOL-0030,Speaker Unit,SPK,Pegatron,5.23
+EAR-ORB-0016,Battery,BAT,Pegatron,7.91
+EAR-ORB-0016,Speaker Driver,SPD,Delta Electronics,6.1
+EAR-ORB-0016,Charging Case,CSE,Foxlink Corp,11.2
+EAR-ORB-0016,Bluetooth Chip,BTC,Wistron,5.32
+LAP-SOL-0029,Motherboard,MB,Delta Electronics,174.11
+LAP-SOL-0029,Display Panel,DSP,Luxshare ICT,126.24
+LAP-SOL-0029,Battery,BAT,Foxlink Corp,24.38
+LAP-SOL-0029,SSD Storage,SSD,Pegatron,62.89
+LAP-SOL-0029,RAM Module,RAM,Pegatron,81.42
+LAP-SOL-0029,Keyboard Assembly,KB,Quanta Computer,27.22
+LAP-SOL-0029,Cooling Fan,FAN,Foxlink Corp,9.51
+LAP-SOL-0029,Webcam Module,CAM,Quanta Computer,3.42
+LAP-ZEN-0030,Motherboard,MB,Luxshare ICT,157.39
+LAP-ZEN-0030,Display Panel,DSP,Pegatron,57.82
+LAP-ZEN-0030,Battery,BAT,Pegatron,65.49
+LAP-ZEN-0030,SSD Storage,SSD,Delta Electronics,60.72
+LAP-ZEN-0030,RAM Module,RAM,Luxshare ICT,62.01
+LAP-ZEN-0030,Keyboard Assembly,KB,Luxshare ICT,30.67
+LAP-ZEN-0030,Cooling Fan,FAN,Foxlink Corp,6.25
+LAP-ZEN-0030,Webcam Module,CAM,Quanta Computer,9.0
+PHN-ORB-0031,Logic Board,LB,Delta Electronics,182.55
+PHN-ORB-0031,OLED Display,OLD,Delta Electronics,51.15
+PHN-ORB-0031,Battery,BAT,Quanta Computer,31.73
+PHN-ORB-0031,Camera Module,CAM,Luxshare ICT,49.85
+PHN-ORB-0031,Charging Port,CHG,Delta Electronics,3.12
+PHN-ORB-0031,Speaker Unit,SPK,Pegatron,8.29
+PHN-VOR-0032,Logic Board,LB,Wistron,197.82
+PHN-VOR-0032,OLED Display,OLD,Foxlink Corp,60.33
+PHN-VOR-0032,Battery,BAT,Quanta Computer,17.96
+PHN-VOR-0032,Camera Module,CAM,Pegatron,40.48
+PHN-VOR-0032,Charging Port,CHG,Foxlink Corp,11.4
+PHN-VOR-0032,Speaker Unit,SPK,Pegatron,5.98
+LAP-ZEN-0031,Motherboard,MB,Foxlink Corp,66.3
+LAP-ZEN-0031,Display Panel,DSP,Quanta Computer,150.59
+LAP-ZEN-0031,Battery,BAT,Quanta Computer,48.77
+LAP-ZEN-0031,SSD Storage,SSD,Foxlink Corp,67.41
+LAP-ZEN-0031,RAM Module,RAM,Pegatron,66.0
+LAP-ZEN-0031,Keyboard Assembly,KB,Luxshare ICT,27.76
+LAP-ZEN-0031,Cooling Fan,FAN,Quanta Computer,19.71
+LAP-ZEN-0031,Webcam Module,CAM,Pegatron,9.93
+LAP-NIM-0032,Motherboard,MB,Luxshare ICT,76.33
+LAP-NIM-0032,Display Panel,DSP,Delta Electronics,111.39
+LAP-NIM-0032,Battery,BAT,Quanta Computer,51.34
+LAP-NIM-0032,SSD Storage,SSD,Luxshare ICT,25.45
+LAP-NIM-0032,RAM Module,RAM,Foxlink Corp,65.2
+LAP-NIM-0032,Keyboard Assembly,KB,Foxlink Corp,16.55
+LAP-NIM-0032,Cooling Fan,FAN,Foxlink Corp,6.93
+LAP-NIM-0032,Webcam Module,CAM,Pegatron,5.48
+LAP-EMB-0033,Motherboard,MB,Luxshare ICT,98.76
+LAP-EMB-0033,Display Panel,DSP,Foxlink Corp,146.75
+LAP-EMB-0033,Battery,BAT,Luxshare ICT,38.29
+LAP-EMB-0033,SSD Storage,SSD,Delta Electronics,92.79
+LAP-EMB-0033,RAM Module,RAM,Foxlink Corp,69.73
+LAP-EMB-0033,Keyboard Assembly,KB,Pegatron,18.79
+LAP-EMB-0033,Cooling Fan,FAN,Quanta Computer,15.64
+LAP-EMB-0033,Webcam Module,CAM,Wistron,9.03
+PHN-EMB-0033,Logic Board,LB,Foxlink Corp,234.43
+PHN-EMB-0033,OLED Display,OLD,Foxlink Corp,118.89
+PHN-EMB-0033,Battery,BAT,Luxshare ICT,11.51
+PHN-EMB-0033,Camera Module,CAM,Pegatron,45.9
+PHN-EMB-0033,Charging Port,CHG,Wistron,3.72
+PHN-EMB-0033,Speaker Unit,SPK,Pegatron,4.5
+EAR-NIM-0017,Battery,BAT,Quanta Computer,3.0
+EAR-NIM-0017,Speaker Driver,SPD,Wistron,8.48
+EAR-NIM-0017,Charging Case,CSE,Pegatron,8.04
+EAR-NIM-0017,Bluetooth Chip,BTC,Quanta Computer,8.09
+LAP-ZEN-0034,Motherboard,MB,Delta Electronics,168.3
+LAP-ZEN-0034,Display Panel,DSP,Foxlink Corp,175.63
+LAP-ZEN-0034,Battery,BAT,Luxshare ICT,38.16
+LAP-ZEN-0034,SSD Storage,SSD,Quanta Computer,40.58
+LAP-ZEN-0034,RAM Module,RAM,Quanta Computer,50.77
+LAP-ZEN-0034,Keyboard Assembly,KB,Pegatron,38.35
+LAP-ZEN-0034,Cooling Fan,FAN,Wistron,10.01
+LAP-ZEN-0034,Webcam Module,CAM,Luxshare ICT,3.55
+TAB-NIM-0023,Logic Board,LB,Pegatron,141.42
+TAB-NIM-0023,Touch Display,TDS,Pegatron,63.22
+TAB-NIM-0023,Battery,BAT,Foxlink Corp,32.32
+TAB-NIM-0023,Speaker Unit,SPK,Pegatron,8.65
+TAB-NIM-0023,Charging Port,CHG,Pegatron,10.49
+PHN-ZEN-0034,Logic Board,LB,Delta Electronics,147.14
+PHN-ZEN-0034,OLED Display,OLD,Luxshare ICT,81.43
+PHN-ZEN-0034,Battery,BAT,Delta Electronics,19.4
+PHN-ZEN-0034,Camera Module,CAM,Wistron,51.34
+PHN-ZEN-0034,Charging Port,CHG,Wistron,9.2
+PHN-ZEN-0034,Speaker Unit,SPK,Quanta Computer,4.1
+EAR-EMB-0018,Battery,BAT,Foxlink Corp,2.94
+EAR-EMB-0018,Speaker Driver,SPD,Delta Electronics,5.6
+EAR-EMB-0018,Charging Case,CSE,Pegatron,12.93
+EAR-EMB-0018,Bluetooth Chip,BTC,Pegatron,4.03
+PHN-SOL-0035,Logic Board,LB,Quanta Computer,193.23
+PHN-SOL-0035,OLED Display,OLD,Foxlink Corp,78.15
+PHN-SOL-0035,Battery,BAT,Quanta Computer,23.5
+PHN-SOL-0035,Camera Module,CAM,Delta Electronics,50.88
+PHN-SOL-0035,Charging Port,CHG,Luxshare ICT,10.09
+PHN-SOL-0035,Speaker Unit,SPK,Delta Electronics,9.45
+WCH-VOR-0017,Logic Board,LB,Foxlink Corp,35.47
+WCH-VOR-0017,Display,DSP,Quanta Computer,38.72
+WCH-VOR-0017,Battery,BAT,Wistron,14.21
+WCH-VOR-0017,Sensor Module,SEN,Foxlink Corp,16.73
+WCH-VOR-0017,Strap/Band,STR,Quanta Computer,12.29
+LAP-VOR-0035,Motherboard,MB,Pegatron,146.49
+LAP-VOR-0035,Display Panel,DSP,Foxlink Corp,154.85
+LAP-VOR-0035,Battery,BAT,Pegatron,31.64
+LAP-VOR-0035,SSD Storage,SSD,Wistron,74.5
+LAP-VOR-0035,RAM Module,RAM,Pegatron,81.38
+LAP-VOR-0035,Keyboard Assembly,KB,Pegatron,19.63
+LAP-VOR-0035,Cooling Fan,FAN,Delta Electronics,13.84
+LAP-VOR-0035,Webcam Module,CAM,Foxlink Corp,4.91
+LAP-ORB-0036,Motherboard,MB,Luxshare ICT,88.91
+LAP-ORB-0036,Display Panel,DSP,Pegatron,87.67
+LAP-ORB-0036,Battery,BAT,Quanta Computer,48.22
+LAP-ORB-0036,SSD Storage,SSD,Delta Electronics,99.07
+LAP-ORB-0036,RAM Module,RAM,Quanta Computer,33.47
+LAP-ORB-0036,Keyboard Assembly,KB,Foxlink Corp,21.22
+LAP-ORB-0036,Cooling Fan,FAN,Quanta Computer,10.58
+LAP-ORB-0036,Webcam Module,CAM,Delta Electronics,10.09
+WCH-ZEN-0018,Logic Board,LB,Foxlink Corp,35.79
+WCH-ZEN-0018,Display,DSP,Pegatron,27.07
+WCH-ZEN-0018,Battery,BAT,Foxlink Corp,12.89
+WCH-ZEN-0018,Sensor Module,SEN,Pegatron,5.67
+WCH-ZEN-0018,Strap/Band,STR,Pegatron,8.32
+PHN-NIM-0036,Logic Board,LB,Wistron,108.44
+PHN-NIM-0036,OLED Display,OLD,Quanta Computer,86.85
+PHN-NIM-0036,Battery,BAT,Pegatron,29.18
+PHN-NIM-0036,Camera Module,CAM,Wistron,58.36
+PHN-NIM-0036,Charging Port,CHG,Wistron,10.59
+PHN-NIM-0036,Speaker Unit,SPK,Delta Electronics,3.61
+TAB-ORB-0024,Logic Board,LB,Foxlink Corp,99.17
+TAB-ORB-0024,Touch Display,TDS,Pegatron,39.33
+TAB-ORB-0024,Battery,BAT,Luxshare ICT,22.35
+TAB-ORB-0024,Speaker Unit,SPK,Foxlink Corp,5.67
+TAB-ORB-0024,Charging Port,CHG,Luxshare ICT,10.77
