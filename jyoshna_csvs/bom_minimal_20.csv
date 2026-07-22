@@ -1,0 +1,21 @@
+SKU,Component,Component_Code,Supplier,Component_Cost
+EAR-ZEN-0001,Battery,BAT,Pegatron,7.01
+EAR-ZEN-0001,Speaker Driver,SPD,Luxshare ICT,8.65
+EAR-ZEN-0001,Charging Case,CSE,Pegatron,11.71
+EAR-ZEN-0001,Bluetooth Chip,BTC,Pegatron,3.98
+LAP-ORB-0001,Motherboard,MB,Pegatron,180.46
+LAP-ORB-0001,Display Panel,DSP,Foxlink Corp,158.54
+LAP-ORB-0001,Battery,BAT,Pegatron,61.32
+LAP-ORB-0001,SSD Storage,SSD,Luxshare ICT,100.81
+LAP-ORB-0001,RAM Module,RAM,Luxshare ICT,66.22
+LAP-ORB-0001,Keyboard Assembly,KB,Foxlink Corp,29.29
+LAP-ORB-0001,Cooling Fan,FAN,Delta Electronics,5.47
+LAP-ORB-0001,Webcam Module,CAM,Foxlink Corp,8.73
+LAP-NIM-0002,Motherboard,MB,Quanta Computer,120.26
+LAP-NIM-0002,Display Panel,DSP,Luxshare ICT,122.61
+LAP-NIM-0002,Battery,BAT,Pegatron,20.94
+LAP-NIM-0002,SSD Storage,SSD,Quanta Computer,89.66
+LAP-NIM-0002,RAM Module,RAM,Quanta Computer,34.78
+LAP-NIM-0002,Keyboard Assembly,KB,Luxshare ICT,33.93
+LAP-NIM-0002,Cooling Fan,FAN,Pegatron,18.99
+LAP-NIM-0002,Webcam Module,CAM,Pegatron,3.83

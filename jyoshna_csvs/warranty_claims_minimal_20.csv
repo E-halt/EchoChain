@@ -1,0 +1,21 @@
+Claim_ID,SKU,Failed_Component,Claim_Date,Days_In_Service,Repair_Cost,Resolution,Failure_Symptom
+WC-00015,WCH-NIM-0001,Logic Board,2024-07-03,929,110.86,Replaced,Battery drains fast
+WC-00021,WCH-NIM-0001,Sensor Module,2026-01-15,693,56.78,Repaired,Cracked/damaged
+WC-00043,LAP-NIM-0002,Display Panel,2025-10-30,489,243.32,Repaired,Not charging
+WC-00046,TAB-EMB-0001,Charging Port,2024-04-11,582,48.35,Refunded,Overheating
+WC-00101,LAP-NIM-0002,Battery,2026-03-14,457,72.51,Refunded,Won't power on
+WC-00105,LAP-ORB-0001,Motherboard,2024-04-14,393,285.18,Replaced,Overheating
+WC-00139,LAP-NIM-0002,Battery,2025-11-05,536,67.24,Repaired,Battery drains fast
+WC-00150,LAP-ORB-0001,RAM Module,2026-06-09,224,187.81,Refunded,Won't power on
+WC-00169,LAP-NIM-0002,Cooling Fan,2024-02-09,925,68.39,Pending,Unresponsive
+WC-00176,TAB-EMB-0001,Touch Display,2026-03-18,914,172.4,Repaired,Won't power on
+WC-00180,LAP-NIM-0002,RAM Module,2025-09-25,985,110.04,Pending,Battery drains fast
+WC-00188,WCH-NIM-0001,Battery,2024-05-11,64,41.5,Refunded,Not charging
+WC-00232,LAP-NIM-0002,Cooling Fan,2024-07-17,846,59.08,Replaced,Cracked/damaged
+WC-00241,TAB-EMB-0001,Speaker Unit,2025-03-01,419,45.71,Replaced,Cracked/damaged
+WC-00288,LAP-NIM-0002,Display Panel,2025-02-24,760,202.62,Replaced,Random shutdowns
+WC-00327,LAP-ORB-0001,SSD Storage,2024-08-29,962,163.26,Repaired,Unresponsive
+WC-00364,LAP-NIM-0002,Motherboard,2025-08-29,137,211.25,Replaced,Overheating
+WC-00365,WCH-NIM-0001,Strap/Band,2026-06-13,67,42.77,Pending,Cracked/damaged
+WC-00419,WCH-NIM-0001,Display,2026-04-08,299,84.44,Repaired,Cracked/damaged
+WC-00424,LAP-ORB-0001,Battery,2025-08-03,43,134.49,Replaced,Battery drains fast
